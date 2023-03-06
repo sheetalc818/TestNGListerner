@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.test.WebinarScreen" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-03-03T11:33:29" hostname="DESKTOP-SS5TGEM" time="20.58">
+  <properties/>
+  <testcase name="webinarScreen[0](67878744, abc@yopmail.com)" classname="com.bridgelabz.test.WebinarScreen" time="7.664"/>
+  <testcase name="webinarScreen[1](678647867, xyz@yopmail.com)" classname="com.bridgelabz.test.WebinarScreen" time="1.634"/>
+  <testcase name="webinarScreen[2](8989897, yh@yopmail.com)" classname="com.bridgelabz.test.WebinarScreen" time="1.659"/>
+  <testcase name="webinarScreen[3](703805368, test@yopmail.com)" classname="com.bridgelabz.test.WebinarScreen" time="1.945"/>
+  <testcase name="phoneNo[0](abc@yopmail.com)" classname="com.bridgelabz.test.WebinarScreen" time="2.364"/>
+  <testcase name="phoneNo[1](xyz@yopmail.com)" classname="com.bridgelabz.test.WebinarScreen" time="1.063"/>
+  <testcase name="phoneNo[2](yh@yopmail.com)" classname="com.bridgelabz.test.WebinarScreen" time="2.223"/>
+  <testcase name="phoneNo[3](test@yopmail.com)" classname="com.bridgelabz.test.WebinarScreen" time="2.012"/>
+  <system-out><![CDATA[text :Enter Phone Number *
+text :Enter Phone Number *
+text :Enter Phone Number *
+text :Enter Phone Number *
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

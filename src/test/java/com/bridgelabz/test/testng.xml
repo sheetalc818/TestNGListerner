@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <parameter name="browser" value="Chrome"></parameter>
+    <test verbose="2" preserve-order="true" name="C:/Users/dell/Documents/QADevPrograms/TestNgDemo">
+<!--     <test name="ChromeDemo">-->
+<!--         <parameter name="browser" value="Chrome"></parameter>-->
+         <classes>
+            <class name="com.bridgelabz.test.WebinarScreen">
+                <methods>
+<!--                    <parameter name="phoneNo" value="70345623"></parameter>-->
+<!--                    <parameter name="emailId" value="abc@gmail.com"></parameter>-->
+<!--                    <include name="Test"/>-->
+                    <include name="webinarScreen"></include>
+                    <include name="phoneNo"></include>
+                </methods>
+            </class>
+<!--         </classes>-->
+<!--     </test>-->
+<!--     <test name="FirefoxDemo">-->
+<!--         <parameter name="browser" value="firefox"></parameter>-->
+<!--         <classes>-->
+<!--            <class name="com.bridgelabz.test.JavascriptExecutorDemo">-->
+<!--                <methods>-->
+<!--                    <include name="demo"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+        </classes>
+    </test>
+</suite>
